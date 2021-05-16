@@ -1,2 +1,2 @@
 # CPP
-C++ solved questions.
+Solved Questions(from basic to advanced)
